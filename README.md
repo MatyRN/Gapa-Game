@@ -1,4 +1,4 @@
-# Gapa-Game
+# Gapa Game
 This is a Sega Genesis game by youtuber gapa, this project uses the SGDK library, a C library.            
 I publish this code so that anyone can modify the game for learning purposes.                                          
 recommendation: separate the code and void into headers for more convenience when programming,                         
